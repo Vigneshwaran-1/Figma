@@ -535,8 +535,8 @@ page4
 </style>
 ~~~
 # OUTPUT:
-~~~
+
 ![image](https://github.com/user-attachments/assets/058cec64-81d3-44ab-98fc-3e278e11b089)
-~~~
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
